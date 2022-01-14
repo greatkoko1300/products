@@ -25,3 +25,8 @@ empty " "
   - second "-"
     - third "-"
       - forth "-"
+
++ first "+"
+  + second "+"
+    + third "+"
+      + forth "+"
