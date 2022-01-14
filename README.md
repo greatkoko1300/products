@@ -18,9 +18,9 @@ empty " "
 >>>> forth ">>>>"
 
 * first "*"
-* second "*"
-* third "*"
+  * second "*"
+    * third "*"
 
 - first "-"
-- second "-"
-- third "-"
+  - second "-"
+    - third "-"
