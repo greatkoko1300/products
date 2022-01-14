@@ -102,4 +102,5 @@ __test__
 줄바꿈을 위해서 3칸 띄어쓰기    
 3칸
 
-
+이미지 적용
+<img src="/path/img.jpg" width="10px" height="10px" title="마우스오버시 등장" alt=""></img>
