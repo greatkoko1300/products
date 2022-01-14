@@ -16,3 +16,11 @@ empty " "
 >> second ">>"
 >>> third ">>>"
 >>>> forth ">>>>"
+
+* first "*"
+* second "*"
+* third "*"
+
+- first "-"
+- second "-"
+- third "-"
