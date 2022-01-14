@@ -77,8 +77,7 @@ Link1 : [google][googlelink]
 
 ```
 [google123](http://google.com, "wow!"
-'''
-
-[google123](http://google.com, "wow!"
+```
+[google123](http://google.com, "wow!")
 
 
