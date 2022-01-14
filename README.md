@@ -103,4 +103,4 @@ __test__
 3칸
 
 이미지 적용
-<img src="apple.png" width="10px" height="10px" title="마우스오버시 등장" alt="apple2"></img>
+<img src="./apple.png" width="10px" height="10px" title="마우스오버시 등장" alt="apple2"></img>
