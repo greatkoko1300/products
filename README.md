@@ -63,3 +63,7 @@ public class MarkDown {
 - - -
 "------"
 ------
+
+Link1 : [google][googlelink]
+
+[googlelink]: http://google.com "hoho"
