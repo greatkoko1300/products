@@ -104,6 +104,6 @@ __test__
 
 이미지 적용
 ```
-<img src="./apple.png" width="20px" height="20px" title="마우스오버시 등장" alt="apple2"></img>
+<img src="./apple.png" width="40px" height="40px" title="마우스오버시 등장" alt="apple2"></img>
 ```
-<img src="./apple.png" width="20px" height="20px" title="마우스오버시 등장" alt="apple2"></img>
+<img src="./apple.png" width="40px" height="40px" title="마우스오버시 등장" alt="apple2"></img>
